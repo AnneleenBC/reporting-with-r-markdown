@@ -4,10 +4,9 @@ Chapter 1 – Start with the end goal in mind
     * Some syntax introduced/used: the `.Rmd` file, the `Knit` button in RStudio, R code chunks (```` ```{r} some code ``` ````)
   * Lesson 1.2 – Creating your first report
     * A learning objective: The learner will be able to describe how the elements of a .Rmd file contribute to a report.
-    * Some syntax introduced/used:
+    * Some syntax introduced/used: the `.Rmd` file, the `Knit` button in RStudio, R code chunks (```` ```{r} some code ``` ````)
   * Lesson 1.3 – Exploring the dataset
     * A learning objective: The learner will be able to explore the dataset of this course using descriptive statistics and graphics.
-    * Some syntax introduced/used:
 
 Chapter 2 – Formatting the text
   * Lesson 2.1 – Styling narrative sections
