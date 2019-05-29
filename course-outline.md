@@ -35,7 +35,6 @@ Chapter 3 – Adding the code
 Chapter 4 – Rendering the document
   * Lesson 4.1 – Behind the scenes
     * A learning objective: The learner will be able to list the steps between their `.Rmd` file and their output file.
-    * Some syntax introduced/used:
   * Lesson 4.2 – The YAML header
     * A learning objective: The learner will be able to define the YAML header in function of the desired output format: html_document (default), pdf_document, word_document, beamer_presentation, ioslides_presentation or slidy_presentation. The learner will be able to generate multiple file formats at once.
     * Some syntax introduced/used: `rmarkdown::render render(“doc.rmd”, c(“output_format_1”, “output_format_2”))`
