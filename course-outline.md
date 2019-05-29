@@ -2,11 +2,11 @@ Chapter 1 – Start with the end goal in mind
   * Lesson 1.1 – The importance of reporting
     * A learning objective: The learner will be able to explain the relevance of R Markdown in reporting findings: R Markdown allows one to efficiently create clear reports to communicate findings.
     * Some syntax introduced/used: the `.Rmd` file, the `Knit` button in RStudio, R code chunks (```` ```{r} some code ``` ````)
-  * Lesson 1.2 – Create your first document
-    * A learning objective
+  * Lesson 1.2 – Creating your first report
+    * A learning objective: The learner will be able to describe how the elements of a .Rmd file contribute to a report.
     * Some syntax introduced/used:
-  * Lesson 1.3 – Create your first slide deck
-    * A learning objective
+  * Lesson 1.3 – Exploring the dataset
+    * A learning objective: The learner will be able to explore the dataset of this course using descriptive statistics and graphics.
     * Some syntax introduced/used:
 
 Chapter 2 – Formatting the text
@@ -41,12 +41,9 @@ Chapter 4 – Rendering the document
   * Lesson 4.1 – Behind the scenes
     * A learning objective: The learner will be able to list the steps between their `.Rmd` file and their output file.
     * Some syntax introduced/used:
-  * Lesson 4.2 – 
-    * A learning objective
-    * Some syntax introduced/used:
-  * Lesson 4.3 – 
-    * A learning objective
-    * Some syntax introduced/used:
-  * Lesson 4.3 – 
-    * A learning objective
-    * Some syntax introduced/used:
+  * Lesson 4.2 – The YAML header
+    * A learning objective: The learner will be able to define the YAML header in function of the desired output format: html_document (default), pdf_document, word_document, beamer_presentation, ioslides_presentation or slidy_presentation. The learner will be able to generate multiple file formats at once.
+    * Some syntax introduced/used: `rmarkdown::render render(“doc.rmd”, c(“output_format_1”, “output_format_2”))`
+  * Lesson 4.3 – Working with style sheets
+    * A learning objective: The learner will be able to customize the style of the output document using specify knitr and pandoc options, or css style sheets.
+    * Some syntax introduced/used: `highlight`, `theme`, `toc`, `number_sections`
