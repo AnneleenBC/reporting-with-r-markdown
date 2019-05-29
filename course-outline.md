@@ -11,17 +11,13 @@ Chapter 1 – Start with the end goal in mind
 
 Chapter 2 – Formatting the text
   * Lesson 2.1 – Styling narrative sections
-    * A learning objective
-    * Some syntax introduced/used:
+    * A learning objective: The learner will be able to format plain text using the most popular Pandoc's markdown syntax.
+    * Some syntax introduced/used: headings, links, emphasis, Strikeout, Superscripts and subscripts, Math, images, code formatting (`` `some text` ``)
   * Lesson 2.2 – Adding text tables
-    * A learning objective: The learner will be able to add tables to their report. The learner will be able to format tables, considering 
-    * Some syntax introduced/used: 
+    * A learning objective: The learner will be able to add tables to their report. The learner will be able to format tables, considering table captions, multiline tables, grid tables, and pipe tables.
   * Lesson 2.3 – Using lists
     * A learning objective: The learner will be able to add bulleted an numbered lists to their report.
     * Some syntax introduced/used: `* Item 1`, `1. Item 1`, blank line before and after list
-  * Lesson 2.4 – Code formatting
-    * A learning objective
-    * Some syntax introduced/used: code formatting (`` `some text` ``)
 
 Chapter 3 – Adding the code
   * Lesson 3.1 – Inline Code & Code chunks
