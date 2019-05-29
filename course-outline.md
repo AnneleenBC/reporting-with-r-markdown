@@ -1,0 +1,52 @@
+Chapter 1 – Start with the end goal in mind
+  * Lesson 1.1 – The importance of reporting
+    * A learning objective: The learner will be able to explain the relevance of R Markdown in reporting findings: R Markdown allows one to efficiently create clear reports to communicate findings.
+    * Some syntax introduced/used: the `.Rmd` file, the `Knit` button in RStudio, R code chunks (```` ```{r} some code ``` ````)
+  * Lesson 1.2 – Create your first document
+    * A learning objective
+    * Some syntax introduced/used:
+  * Lesson 1.3 – Create your first slide deck
+    * A learning objective
+    * Some syntax introduced/used:
+
+Chapter 2 – Formatting the text
+  * Lesson 2.1 – Styling narrative sections
+    * A learning objective
+    * Some syntax introduced/used:
+  * Lesson 2.2 – Adding text tables
+    * A learning objective: The learner will be able to add tables to their report. The learner will be able to format tables, considering 
+    * Some syntax introduced/used: 
+  * Lesson 2.3 – Using lists
+    * A learning objective: The learner will be able to add bulleted an numbered lists to their report.
+    * Some syntax introduced/used: `* Item 1`, `1. Item 1`, blank line before and after list
+  * Lesson 2.4 – Code formatting
+    * A learning objective
+    * Some syntax introduced/used: code formatting (`` `some text` ``)
+
+Chapter 3 – Adding the code
+  * Lesson 3.1 – Inline Code & Code chunks
+    * A learning objective: The learner will be able to use inline code and code chunks to include code in line with text or include tables, graphics, ..., respectively.
+    * Some syntax introduced/used: inline code (`` `r some code` ``), R code chunks (```` ```{r} some code ``` ````)
+  * Lesson 3.2 – Code chunk options
+    * A learning objective: The learner will be able to cutomize code output using the most popular code chunk options.
+    * Some syntax introduced/used: `message`, `warning`, `error`, `echo`, `eval`, `results`, `fig.height`, `fig.width`
+  * Lesson 3.3 – Labeling and reusing code chunks
+    * A learning objective: The learner will be able to label code chunks and refer to these labelled code chunks in another code chunk using the `ref.label` option.
+    * Some syntax introduced/used: Label code chunks by adding label as first option (```` ```{r label, option 1} some code ``` ````), refer in one code chunk to another code chunk with ref.label option (```` ```{r ref.label = label, option 1} some code ``` ````)
+  * Lesson 3.4 – Formatting data tables
+    * A learning objective: The learner will be able to display data with additional formatting using the `knitr::kable function.
+    * Some syntax introduced/used: `knitr::kable`
+
+Chapter 4 – Rendering the document
+  * Lesson 4.1 – Behind the scenes
+    * A learning objective: The learner will be able to list the steps between their `.Rmd` file and their output file.
+    * Some syntax introduced/used:
+  * Lesson 4.2 – 
+    * A learning objective
+    * Some syntax introduced/used:
+  * Lesson 4.3 – 
+    * A learning objective
+    * Some syntax introduced/used:
+  * Lesson 4.3 – 
+    * A learning objective
+    * Some syntax introduced/used:
